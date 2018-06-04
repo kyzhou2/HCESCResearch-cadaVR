@@ -1,0 +1,211 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4058 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\cadaVR_05May2018\Build\CadaVR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\cadaVR_05May2018\Build\CadaVR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\cadaVR_05May2018\Build\CadaVR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\cadaVR_05May2018\Build\CadaVR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\cadaVR_05May2018\Build\CadaVR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\cadaVR_05May2018\Build\CadaVR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\cadaVR_05May2018\Build\CadaVR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\cadaVR_05May2018\Build\CadaVR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\cadaVR_05May2018\Build\CadaVR_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\cadaVR_05May2018\Build\CadaVR_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\cadaVR_05May2018\Build\CadaVR_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\cadaVR_05May2018\Build\CadaVR_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.018 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object '_UIRaycaster') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'AppButtonInside') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'OVRCameraRig') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'OVRCameraRig') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'AppButtonOutside') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_UIRaycaster') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'RightHandAnchor') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'RightHandAnchor') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'LocalAvatar') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'LocalAvatar') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'controller_right') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'hand_left') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'ddcontroller') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'VRCameraRig') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'TouchPadOutside') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_UIRaycaster') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'body') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'base') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'GvrControllerPointer') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_PlayArea') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'LeftHandAnchor') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'LeftHandAnchor') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Controller') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'hand_right') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'TouchPadInside') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'controller_left') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'GvrViewerMain') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'GvrControllerMain') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'GvrControllerMain') is missing!
+ 
+(Filename:  Line: 1758)
+
+UnloadTime: 0.841853 ms
+Ignoring SDK Setup 'Daydream' because there are some errors with it:
+- The vendor SDK for 'Daydream' is not installed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ignoring SDK Setup 'OculusVR' because there are some errors with it:
+- The vendor SDK for 'Oculus' is not installed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ignoring SDK Setup 'XimmerseVR (Oculus)' because there are some errors with it:
+- The vendor SDK for 'Ximmerse (Oculus)' is not installed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VRTK.VRTK_SDKSetupSwitcher.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at VRTK.VRTK_SDKSetupSwitcher.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+OpenVR initialized!
+ 
+(Filename:  Line: 584)
+
+[VRDevice] Successfully created device OpenVR.
+Connected to lighthouse:LHR-E102F418
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 894 -> priority: 1 
+  Thread -> id: 29ec -> priority: 1 
+  Thread -> id: 29d0 -> priority: 1 
+  Thread -> id: 258c -> priority: 1 
+  Thread -> id: 1fc4 -> priority: 1 
+  Thread -> id: 22e4 -> priority: 1 
+Dropdown option selected was ID 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dropdown option selected was ID 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dropdown option selected was ID 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OpenVR Shutdown
+ 
+(Filename:  Line: 1253)
+
